@@ -15,6 +15,15 @@
         },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.fadilaKangaye.workshop"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.fadilaKangaye.workshop"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.fadilaKangaye.workshop"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.fadilaKangaye.workshop"
         }
     },
     "dependent_plugins": {}
